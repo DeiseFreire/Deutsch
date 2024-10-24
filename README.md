@@ -4,8 +4,8 @@
 
 **Olá!** 
 
-* Este repositório é um diário pessoal para documentar o meu aprendizado da língua alemã. 
-  * A ideia é registrar meu progresso, dúvidas, exercícios e tudo mais que considerar relevante para o meu estudo. 
+* Este repositório é um [diário pessoal](https://github.com/DeiseFreire/Deutsch/wiki) para documentar o meu aprendizado da língua alemã. 
+  * A ideia é registrar meu progresso, dúvidas, exercícios e tudo mais no [Wiki](https://github.com/DeiseFreire/Deutsch/wiki). 
 
 **Por que um repositório público?**
 
