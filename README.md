@@ -20,9 +20,8 @@
 * **Recursos:** Links para materiais de estudo, dicionários, ferramentas online e outros recursos.
 * **exercicios:** Resolução de exercícios e atividades.
 
-**Como contribuir:**
 
-Sinta-se à vontade para conversar comigo:
+**Sinta-se à vontade para conversar comigo:**
 
 * **Abrir issues** para fazer perguntas, sugerir melhorias ou reportar erros.
 
